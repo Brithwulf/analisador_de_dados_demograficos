@@ -31,7 +31,7 @@ python demographic_data_analyzer.py
 ## Estrutura do Projeto
 ```
 |-- adult.data.csv  # Conjunto de dados
-|-- script.py       # Código-fonte principal
+|-- demographic_data_analyzer.py       # Código-fonte principal
 |-- README.md       # Documentação do projeto
 ```
 
